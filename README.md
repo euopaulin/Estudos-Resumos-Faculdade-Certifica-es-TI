@@ -1,13 +1,13 @@
-# Estudos-Resumos-Faculdade-Certifica-es-TI
+# Estudos, Resumos, Anotações, Faculdade e Certificações
 
-Repositório para armazenar meus resumos e anotações dos meus estudos da faculdade, certificações e conhecimentos gerais sobre TI.
+Olá, meu nome é Paulo e sou estudante da graduação em Engenharia de Software, criei esse epositório para armazenar meus resumos e anotações dos meus estudos da faculdade, certificações e conhecimentos gerais sobre TI.
 
 ## 📚 Estrutura do Repositório
 
 Este repositório está organizado da seguinte forma:
 
 ### 📖 [Faculdade](./Faculdade)
-Resumos, anotações e materiais de estudo das disciplinas da faculdade.
+Resumos, anotações e materiais de estudo das disciplinas da faculdade de Engenharia de Software.
 
 ### 🎓 [Certificações](./Certificacoes)
 Materiais de estudo, resumos e anotações para certificações de TI.
